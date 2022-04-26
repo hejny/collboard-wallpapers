@@ -1,6 +1,6 @@
 {
     "name": "@hejny/wallpapers",
-    "version": "0.3.42",
+    "version": "0.3.43",
     "description": "Image wallpapers Collboard.com created via @collboard/modules-sdk.",
     "license": "SEE LICENSE IN LICENSE",
     "contributors": [
