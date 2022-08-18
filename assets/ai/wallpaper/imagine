@@ -1,5 +1,34 @@
-Wallpaper in minimalistic style for project that Image wallpapers virtual online whiteboard
---aspect 2:1 --version 3
---seed 9077888
+# Note: Each part is new input for imagine command
+#       And every first line will be searched during the harvesting phase
 
-Note: All lines bellow (including this) are ignored.
+Image wallpapers virtual online whiteboard
+--aspect 2:1
+--seed 2290319
+
+Banner for Image wallpapers virtual online whiteboard
+--aspect 2:1
+--seed 2290319
+
+Image wallpapers virtual online whiteboard
+--aspect 2:1 --hd
+--seed 2290319
+
+Banner for Image wallpapers virtual online whiteboard
+--aspect 2:1 --hd
+--seed 2290319
+
+Image wallpapers virtual online whiteboard
+--aspect 2:1 --quality 2
+--seed 2290319
+
+Banner for Image wallpapers virtual online whiteboard
+--aspect 2:1 --quality 2
+--seed 2290319
+
+Image wallpapers virtual online whiteboard
+--aspect 2:1 --hd --quality 2
+--seed 2290319
+
+Banner for Image wallpapers virtual online whiteboard
+--aspect 2:1 --hd --quality 2
+--seed 2290319
