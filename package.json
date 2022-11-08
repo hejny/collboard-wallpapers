@@ -1,6 +1,6 @@
 {
     "name": "@hejny/wallpapers",
-    "version": "0.3.168",
+    "version": "0.3.169",
     "description": "Image wallpapers Collboard.com",
     "license": "SEE LICENSE IN LICENSE",
     "contributors": [
@@ -21,7 +21,7 @@
     },
     "dependencies": {},
     "devDependencies": {
-        "@collboard/modules-sdk": "28.2.0",
+        "@collboard/modules-sdk": "28.3.0",
         "tslint": "6.1.3"
     }
 }
