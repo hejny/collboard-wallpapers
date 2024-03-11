@@ -7,8 +7,8 @@
 [![License of 🌆 Wallpapers for Collboard](https://img.shields.io/github/license/hejny/collboard-wallpapers.svg?style=flat)](https://github.com/hejny/collboard-wallpapers/blob/main/LICENSE)
 [![lint](https://github.com/hejny/collboard-wallpapers/actions/workflows/lint.yml/badge.svg)](https://github.com/hejny/collboard-wallpapers/actions/workflows/lint.yml)
 [![test](https://github.com/hejny/collboard-wallpapers/actions/workflows/test.yml/badge.svg)](https://github.com/hejny/collboard-wallpapers/actions/workflows/test.yml)
-[![Known Vulnerabilities](https://snyk.io/test/github/hejny/collboard-wallpapers/badge.svg)](https://snyk.io/test/github/hejny/collboard-wallpapers)
 [![Issues](https://img.shields.io/github/issues/hejny/collboard-wallpapers.svg?style=flat)](https://github.com/hejny/collboard-wallpapers/issues)
+<!--[![Known Vulnerabilities](https://snyk.io/test/github/hejny/collboard-wallpapers/badge.svg)](https://snyk.io/test/github/hejny/collboard-wallpapers)-->
 
 <!--/Badges-->
 
