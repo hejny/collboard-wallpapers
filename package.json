@@ -2,7 +2,7 @@
     "name": "@hejny/wallpapers",
     "version": "0.3.340",
     "description": "Image wallpapers Collboard.com",
-    "license": "SEE LICENSE IN LICENSE",
+    "license": "Apache-2.0",
     "contributors": [
         "Pavol Hejný <pavol.hejny@collboard.com> (https://collboard.com/-/about/team)",
         "Jonáš Rosecký <jonas.rosecky@collboard.com> (https://collboard.com/-/about/team)"
